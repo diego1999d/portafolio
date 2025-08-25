@@ -1,8 +1,16 @@
-# Portafolio
-ECHO est� activado.
-Soy Diego. Este es mi portafolio de proyectos de an�lisis de datos.
-ECHO est� activado.
+# Portafolio — Diego Durán
+
+Soy **Diego**. Aquí muestro mis proyectos de **análisis de datos** en Python.
+Los notebooks están listos para leerse en GitHub (con salidas guardadas).
+
 ## Proyectos
-- [Proyecto 1](proyecto-1/README.md) - An�lisis de ventas de videojuegos.
-- [Proyecto 2](proyecto-2/README.md)
-- [Proyecto 3](proyecto-3/README.md)
+- **[Proyecto 1 – Análisis de ventas de videojuegos](proyecto-1/README.md)**
+- **Proyecto 2** (próximamente)
+- **Proyecto 3** (próximamente)
+
+## Cómo correr localmente (opcional)
+```bash
+conda create -n portafolio python=3.11 -y
+conda activate portafolio
+pip install -r requirements.txt
+
