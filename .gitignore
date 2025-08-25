@@ -1,3 +1,9 @@
+# Ignorar datasets locales en cualquier proyecto
+**/data/*.csv
+**/data/*.xlsx
+**/data/*.parquet
+
+# Archivos temporales / cache
 __pycache__/
 .ipynb_checkpoints/
 .DS_Store
