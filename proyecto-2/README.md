@@ -1,7 +1,9 @@
 # Proyecto 2 – (título por definir)
 
-**Notebook:** *(lo agregaremos en cuanto lo tengas)*  
-**Datos:** `data/` *(coloca aquí el CSV cuando lo tengas)*
+**Notebook:** [notebooks/proyecto_2.ipynb](notebooks/proyecto_2.ipynb)
+**Datos:** `data/` (archivos locales: megaline_calls.csv, megaline_internet.csv, megaline_messages.csv,
+megaline_plans.csv, megaline_users.csv)
+
 
 ## Objetivo
 Describe en 1–2 líneas qué vas a analizar.
