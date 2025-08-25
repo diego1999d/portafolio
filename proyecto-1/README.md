@@ -4,8 +4,8 @@
 ```markdown
 # Proyecto 1 – Análisis de ventas de videojuegos
 
-**Notebook:** [`notebooks/proyecto_1.ipynb`](notebooks/proyecto_1.ipynb)  
-**Datos:** [`data/games.csv`](data/games.csv)
+**Notebook:** [notebooks/proyecto_1.ipynb](notebooks/proyecto_1.ipynb)  
+**Datos:** [data/games.csv](data/games.csv)
 
 ## Objetivo
 Explorar factores asociados a mayores ventas (época, plataforma, género, reseñas).
