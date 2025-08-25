@@ -6,7 +6,7 @@ Los notebooks están listos para leerse en GitHub (con salidas guardadas).
 ## Proyectos
 - **[Proyecto 1 – Análisis de ventas de videojuegos](proyecto-1/README.md)**
 - **[Proyecto 2 – Análisis estadístico de telefonía (Megaline)](proyecto-2/README.md)**
-- **Proyecto 3** (próximamente)
+- **[Proyecto 3 – Limpieza y unión de datos (Instacart)](proyecto-3/)**
 
 ## Cómo correr localmente (opcional)
 ```bash
