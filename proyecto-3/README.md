@@ -1,15 +1,20 @@
 # Proyecto 3 – Limpieza y unión de datos (Instacart)
 
-**Notebook:** [notebooks/proyecto_3.ipynb](notebooks/proyecto_3.ipynb)  
-**Datos (no se suben):** `proyecto-3/data/` (ignorados por `.gitignore`)
+**Notebook:** [`notebooks/proyecto_3.ipynb`](notebooks/proyecto_3.ipynb)  
+**Datos:** *(no se suben al repo; están ignorados en `proyecto-3/data/`)*
 
-## Datasets
-- instacart_orders.csv
-- products.csv
-- aisles.csv
-- departments.csv
-- order_products.csv
+## Objetivo
+Unir y limpiar varias tablas (orders, products, aisles, departments, order_products) para preparar un dataset coherente y listo para análisis.
 
 ## Qué hice
-- Carga de los 5 CSV con `sep=';'`.
-- Chequeo inicial: `info()`, `describe()`, `head()` para validar estructura y tipos.
+- Cargué 5 CSV grandes con `pandas`.
+- Revisé tipos, nulos y duplicados; apliqué correcciones básicas.
+- Uní tablas por claves (`order_id`, `product_id`, etc.) asegurando integridad.
+
+## Hallazgos (breve)
+- Estructuras consistentes tras limpieza.
+- Dataset final preparado para hipótesis/visualizaciones del negocio.
+
+## Stack
+Python · pandas
+
