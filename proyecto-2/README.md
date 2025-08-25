@@ -1,20 +1,20 @@
-# Proyecto 2 – (título por definir)
+# Proyecto 2 – Análisis estadístico de telefonía (Megaline)
 
-**Notebook:** [notebooks/proyecto_2.ipynb](notebooks/proyecto_2.ipynb)
-**Datos:** `data/` (archivos locales: megaline_calls.csv, megaline_internet.csv, megaline_messages.csv,
-megaline_plans.csv, megaline_users.csv)
-
+**Notebook:** [`notebooks/proyecto_2.ipynb`](notebooks/proyecto_2.ipynb)  
+**Datos:** *(no se suben al repo; están ignorados en `proyecto-2/data/`)*
 
 ## Objetivo
-Describe en 1–2 líneas qué vas a analizar.
+Comparar planes y comportamiento de clientes para identificar qué tarifa genera más ingresos.
 
 ## Qué hice
-- Paso 1…
-- Paso 2…
+- Carga y revisión de tablas (llamadas, internet, mensajes, planes, usuarios).
+- Limpieza rápida y chequeos básicos.
+- Análisis descriptivo y visualizaciones.
+- Comparación entre planes.
 
-## Hallazgos
-- Punto clave 1…
-- Punto clave 2…
+## Hallazgos (resumen)
+- …
+- …
 
 ## Stack
 Python · pandas · numpy · matplotlib · seaborn · scipy
