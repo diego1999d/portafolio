@@ -1,19 +1,15 @@
-# Proyecto 3
-# Proyecto 3 – (título por definir)
+# Proyecto 3 – Limpieza y unión de datos (Instacart)
 
-**Notebook:** *(lo agregaremos en cuanto lo tengas)*  
-**Datos:** `data/` *(no se suben al repo; están ignorados por .gitignore)*
+**Notebook:** [notebooks/proyecto_3.ipynb](notebooks/proyecto_3.ipynb)  
+**Datos (no se suben):** `proyecto-3/data/` (ignorados por `.gitignore`)
 
-## Objetivo
-Describe en 1–2 líneas qué vas a analizar.
+## Datasets
+- instacart_orders.csv
+- products.csv
+- aisles.csv
+- departments.csv
+- order_products.csv
 
 ## Qué hice
-- Paso 1…
-- Paso 2…
-
-## Hallazgos
-- Punto clave 1…
-- Punto clave 2…
-
-## Stack
-Python · pandas · numpy · matplotlib · seaborn · scipy
+- Carga de los 5 CSV con `sep=';'`.
+- Chequeo inicial: `info()`, `describe()`, `head()` para validar estructura y tipos.
