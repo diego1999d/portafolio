@@ -1,12 +1,26 @@
-# Proyecto 1 - An lisis de ventas de videojuegos
-**Notebook:** [notebooks/proyecto_1.ipynb](notebooks/proyecto_1.ipynb)
-**Datos:** [data/games.csv](data/games.csv)
-ECHO est  activado.
-**Resumen:** Explor‚ lanzamientos 1980-2016, plataformas, g‚neros y ventas por regi¢n. Hallazgos: pico 2007-2011; plataformas PS2 dominan hist¢ricamente; la relaci¢n `critic_score` con ventas es m s clara que `user_score`.
-ECHO est  activado.
-**Stack:** Python (pandas, numpy, matplotlib, seaborn, scipy).
-ECHO est  activado.
-**C¢mo reproducir:** 
-1\) `conda create -n portafolio python=3.11 -y` && `conda activate portafolio`
-2\) `pip/conda install -r ../../requirements.txt`
-3\) Abrir `notebooks/proyecto_1.ipynb` y ejecutar.
+
+## 2) README del Proyecto 1 (breve)
+En GitHub â†’ `proyecto-1/README.md` â†’ Edita y pega:
+
+```markdown
+# Proyecto 1 â€“ AnÃ¡lisis de ventas de videojuegos
+
+**Notebook:** [`notebooks/proyecto_1.ipynb`](notebooks/proyecto_1.ipynb)  
+**Datos:** [`data/games.csv`](data/games.csv)
+
+## Objetivo
+Explorar factores asociados a mayores ventas (Ã©poca, plataforma, gÃ©nero, reseÃ±as).
+
+## QuÃ© hice
+- EDA 1980â€“2016 por plataforma, gÃ©nero y regiÃ³n.
+- GrÃ¡ficas de distribuciÃ³n y tendencia.
+- Correlaciones simples con `critic_score` y `user_score`.
+
+## Hallazgos
+- Auge 2007â€“2011.
+- PS2 domina histÃ³ricamente; desde 2013 crecen PS4/Xbox One.
+- `critic_score` se relaciona mejor con ventas que `user_score`.
+
+## Stack
+Python Â· pandas Â· numpy Â· matplotlib Â· seaborn Â· scipy
+
