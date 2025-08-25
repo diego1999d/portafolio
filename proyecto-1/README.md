@@ -1,6 +1,5 @@
 
 ## 2) README del Proyecto 1 (breve)
-En GitHub → `proyecto-1/README.md` → Edita y pega:
 
 ```markdown
 # Proyecto 1 – Análisis de ventas de videojuegos
