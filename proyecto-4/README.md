@@ -1,4 +1,4 @@
-# Proyecto 11 — Predicción de reservas de petróleo (OilyGiant)
+# Proyecto 4 — Predicción de reservas de petróleo (OilyGiant)
 
 ## Descripción general
 La compañía **OilyGiant** planea abrir 200 nuevos pozos de petróleo.  
